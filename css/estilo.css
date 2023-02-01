@@ -1,0 +1,48 @@
+.header{
+	width: 80%;
+	height: auto;
+	background-color:#191970;
+	margin: 0 auto;
+	margin-bottom:0;
+}
+.container  clearfix{
+	width: 80%;
+	margin: 0 auto;
+}
+.principal{
+	width: 80%;
+	height:auto;
+	padding:10px;
+	background-color:#EEE5DE;
+	margin: 0 auto;
+	margin-top:-25px;
+	margin-bottom:20px;
+	margin-left:113px;
+	text-indent:30px;
+	
+
+}
+.panel{
+
+	
+	padding:10px;
+	margin: 0 auto;
+	margin-top:-25px;
+	margin-bottom:20px;
+	margin-left:113px;
+	text-indent:30px;
+}
+.section1{
+	margin-bottom:20px;
+	width:80%;
+	height:auto;
+	margin: 0 auto;
+}
+
+.footer{
+	width: 80%;
+	height: auto;
+	background-color:#191970;
+	clear: both;
+	margin: 0 auto;
+}
